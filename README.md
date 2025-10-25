@@ -1,5 +1,8 @@
 # Employees-Dataset-for-Staff-monthly-and-annual-payment-
 
+
+![Image](https://github.com/user-attachments/assets/8f4185bc-0d87-4543-9dc1-3878be2e425a)
+
 ## 📊 Project Overview
 This project analyzes **staff salary distribution** with the goal of measuring both **monthly and annual payments**.  
 The dataset titled **“EMPLOYEES DATASET”** contains detailed information on 10,000 employees across different job categories, education levels, company types, and locations.
