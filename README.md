@@ -152,5 +152,6 @@ This finding may suggest standardized pay policies within organizations represen
 ICT Instructor & Data Analyst  
 Heritage Global Academy, Lagos, Nigeria  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimohaboloreqoseem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimoh-abolore-qoseem-a25a5a249)
+
 📧 qoseem.jimoh@heritageglobalacademy.com
